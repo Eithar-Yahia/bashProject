@@ -5,7 +5,7 @@
 * [Screenshots](#screenshots)
 
 ## Introduction
-shell script that manages apache web server
+Shell script that manages apache web server:
 - Install / remove web server
 - Administrate virtualhost /etc/apache2/sites-enabled
 	- list all virtual hosts, add, delete, disable, enable
@@ -27,6 +27,8 @@ and you have to enter your choice after displaying the menu
 if you enter 4 you will be exit the menu, and if you choose 3 the apache2 menu will displayed which contains:
 
 1-list all virtual hosts
+
+
 2-add a new virtual host
 3-Enable virtual host
 4-Disable virtual host
